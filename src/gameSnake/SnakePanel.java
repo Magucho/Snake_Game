@@ -1,3 +1,5 @@
+//Edgar M Gómez P. 
+// Back-end developer Java.
 package gameSnake;
 
 import java.awt.*;
@@ -54,7 +56,7 @@ public class SnakePanel extends JPanel implements ActionListener {
 		   /*for(int i= 0; i<SIZE_HEIGTH/UNIT_SIZE; i++) {
 			    g.drawLine(i*UNIT_SIZE,0,i*UNIT_SIZE,SIZE_HEIGTH);
 			    g.drawLine(0,i*UNIT_SIZE,SIZE_WIDTH,i*UNIT_SIZE);
-		      }*/
+		      }*///Divide en cuadrillas la ventana.
 		        g.setColor(Color.PINK);
 		        g.fillOval(appleX, appleY, UNIT_SIZE, UNIT_SIZE);
 		
@@ -73,8 +75,7 @@ public class SnakePanel extends JPanel implements ActionListener {
 				g.drawString("Puntaje: "+applesEat,(SIZE_WIDTH - metric.stringWidth("Puntaje: "+applesEat))/2,g.getFont().getSize());
 		    }else {
 		    	gameOver(g);
-		    }
-    }
+    }}
 	//Mostrar manzana
 	public void newApple() {
 		
@@ -103,24 +104,21 @@ public class SnakePanel extends JPanel implements ActionListener {
 		case 'M':
 			x[0]= x[0] + UNIT_SIZE;
 			break;	
-		}
-	}
+	}}
 	public void checkApple() {
 		
 		if((x[0] == appleX) && (y[0] == appleY)) {
 			bodyparts++;
 			applesEat++;
 			newApple();
-		}
-	}
+	}}
 	//Si choca
 	public void checkCollisions() {
 		
 		for(int i= bodyparts; i>0; i-- ) {
 			if((x[0]== x[i]) && (y[0] == y[i])) {
 				running= false;
-			}
-		}
+		}}
 		if(x[0] < 0) {
 			running= false;
 		}
@@ -139,8 +137,7 @@ public class SnakePanel extends JPanel implements ActionListener {
 		
 		if(!running) {
 			time.stop();
-		}
-	}
+	}}
 	//Finaliza el juego
 	public void gameOver(Graphics g) {
 		//puntos
@@ -192,7 +189,4 @@ public class SnakePanel extends JPanel implements ActionListener {
 					direction= 'D';
 				}
 				break;	
-			}
-		}
-	}
-}
+}}}}

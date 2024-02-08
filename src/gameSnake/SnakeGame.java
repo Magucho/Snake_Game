@@ -1,3 +1,5 @@
+//Edgar M Gómez P. 
+// Back-end developer Java.
 package gameSnake;
 
 public class SnakeGame {
