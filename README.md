@@ -10,7 +10,7 @@
 
 ---
 <div align="center">
- <h1>Small Demonstration</h1>
+ <h1>📽️Small Demonstration📽️</h1>
 
  
 https://github.com/Magucho/Snake_Game/assets/98346054/bd7213b6-301a-448a-aee4-e8ba6d0cafc7
@@ -21,7 +21,7 @@ https://github.com/Magucho/Snake_Game/assets/98346054/bd7213b6-301a-448a-aee4-e8
 ---
 
 <div align="center">
- <h1>Explanation of the project</h1>
+ <h1>🎬Explanation of the project🎬</h1>
 <a href="https://fb.watch/q3VjQC1Oq1/">
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
     <br>
