@@ -26,10 +26,19 @@ https://github.com/Magucho/Snake_Game/assets/98346054/bd7213b6-301a-448a-aee4-e8
   <img src="https://img.freepik.com/fotos-premium/logotipo-facebook-neon-espacio-texto-graficos-fondo-azul_494516-176.jpg?w=360" alt="Facebook Badge" width=100/>
     <br>
    </a>
- 
 </div>
  
- 
  ---
+
+ <div align="center">
+  <h1>🙏acknowledgments🥇🎉</h1>
+  
+  <div align="center">
+   <img src="https://img.shields.io/badge/Java-Challenge%23-orange"> 
+  </div>
+   
+   <img src="https://github.com/Magucho/Snake_Game/assets/98346054/f240f3e5-23fc-4e25-95c2-23de9c3f114a" />
+</div>
+
 </div>
 
