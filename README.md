@@ -23,7 +23,7 @@ https://github.com/Magucho/Snake_Game/assets/98346054/bd7213b6-301a-448a-aee4-e8
 <div align="center">
  <h1>Explanation of the project</h1>
  <a href="https://www.facebook.com/magucho.gomez/">
-  <img src="https://www.facebook.com/magucho.gomez/videos/686646093378123" alt="Facebook Badge" width=100/>
+  <img src="https://fb.watch/q3VjQC1Oq1/" alt="Facebook Badge" width=100/>
     <br>
    </a>
  
